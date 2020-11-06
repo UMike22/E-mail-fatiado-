@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.container{
+    max-width: 840px;
+    margin: 0 auto;
+}
+.head-fatiado{
+    height: 72px;
+}
+
+.main-fatiado{
+   height: 418px;
+}
+.conteudo-fatiado{
+    height: 63px;
+}
+.planos-fatiado{
+    height: 160px;
+}
+.card-fatiado{
+    display: flex;
+    
+}
+.card-fatiado{
+    height: 396px;
+}
